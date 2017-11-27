@@ -112,7 +112,7 @@ In this project, I used FSM(finite state machine). This is consisted of 5 states
 
 Below Chart shows these all five states are transition functions.
 
-![chart_fsm](file:./media/1644799924.jpeg)
+![1644799924](file:./media/1644799924.jpeg)
 
 #### Keep Lane
 
@@ -198,7 +198,7 @@ When PCLL, PCRL get appropriate time to change lane, state change CLL, CRL. In t
 				}
 			}
 
-![CLL](file:./media/775808305.png)
+![775808305](file:./media/775808305.png)
 
 
 
