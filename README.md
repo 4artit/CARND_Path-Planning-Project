@@ -100,7 +100,7 @@ cmake and make!
 
 ## Project Reflection
 
-###About Model
+### About Model
 
 In this project, I used FSM(finite state machine). This is consisted of 5 states.
 
